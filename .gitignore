@@ -1,0 +1,5 @@
+backups
+__pycache__
+check_data
+TRAIN_DATA.save
+TRAIN_LABELS.save
